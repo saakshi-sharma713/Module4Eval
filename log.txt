@@ -1,0 +1,1 @@
+{"url":"/vehicles/3f5351b8-b022-4729-8116-d165306d20d3","method":"GET"}
